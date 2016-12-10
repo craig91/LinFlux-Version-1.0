@@ -1,0 +1,99 @@
+{
+  "sitemap": [
+    {
+      "route": "home",
+      "section": "top",
+      "label": "Home",
+      "component": "Welcome...",
+      "keywords": ["home", "linux", "introduction"]
+    },
+
+    {
+      "route": "ubuntu",
+      "section": "distros",
+      "label": "Ubuntu",
+      "keywords": ["ubuntu"]
+    },
+
+    {
+      "route": "manjaro",
+      "section": "distros",
+      "label": "Manjaro",
+      "keywords":["manjaro"]
+    },
+
+    {
+      "route": "opensuse",
+      "section": "distros",
+      "label": "openSUSE",
+      "keywords":["opensuse"]
+    },
+
+    {
+      "route": "centos",
+      "section": "distros",
+      "label": "CentOS",
+      "keywords":["centos"]
+    },
+
+    {
+      "route": "xubuntu",
+      "section": "distros",
+      "label": "Xubuntu",
+      "keywords":["xubuntu"]
+    },
+
+    {
+      "route": "kali-linux",
+      "section": "distros",
+      "label": "Kali Linux",
+      "keywords": ["kali-linux"]
+    },
+
+    {
+      "route": "ubuntu-studio",
+      "section": "distros",
+      "label": "Ubuntu Studio",
+      "keywords": ["ubuntu-studio"]
+    }
+  ],
+    
+  "storeItems": [
+    
+    {
+      "image": "http://placehold.it/140x100",
+      "description": "HP Laptop",
+      "price": 100,
+      "id": "100" 
+    },
+
+    {
+      "image": "http://placehold.it/140x100",
+      "description": "Lenovo Laptop",
+      "price": 100,
+      "id": "101" 
+    },
+
+    {
+      "image": "http://placehold.it/140x100",
+      "description": "Toshiba Laptop",
+      "price": 100,
+      "id": "102" 
+    },
+
+    {
+      "image": "http://placehold.it/140x100",
+      "description": "Sony Laptop",
+      "price": 100,
+      "id": "103" 
+    },
+
+    {
+      "image": "http://placehold.it/140x100",
+      "description": "Dell Laptop",
+      "price": 100,
+      "id": "104" 
+    }
+  ]
+}
+
